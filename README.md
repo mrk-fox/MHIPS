@@ -1,2 +1,2 @@
-# MHIP
-Modular Human Interface Panels
+# MHIPS
+Modular Human Interface Panels System
