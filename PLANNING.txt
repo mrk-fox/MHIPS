@@ -1,0 +1,55 @@
+Goal: Create a rugged modular human interface panel system with a rigid frame.
+
+Subs:
+	- Create a round screw connector matrix system
+	- Create a RP2040 based matrix reciever
+	- Create a Cherry MX-based Korry switch with 2 LEDs (green+blue)
+	- Create a 3x(ON)-OFF-(ON) flipswitch panel with LED indicators
+	- Create a 2x Level 1 importance switch
+	- Create a matrix rig panel
+
+Conventions:
+	Format:
+		Module:50x50mm
+		In-between: 10mm
+		Side thickness: 2mm
+		
+		Example: 2x1 rig ("x" x "y" value):
+			110x50 -> you can fit 4x LEVEL 3 switches, 3x LEVEL 2 switches, 2x LEVEL 1-S and 1x LEVEL 1-HV switch
+			PCB: 106x46
+			  
+			 1x1
+			 50x50
+			 PCB: 46x46
+		
+		Therefore highest density of output states, accounting for every switch being a (On)-Off-(On) switch  per 1x1 unit is 4.
+		If every state has a Indicator LED, a unit has a maximum of 4 LEDs.
+		Hence, the 1x1 block has a minimum of 10 Constacts with GND and VCC.
+		These contacts are divided on 2 groups with 5 contacts per side with following usage:
+		Side:			Top (bottom is left):
+			-VCC			-GND
+			-R1			-C1
+			-R2			-C2
+			-LED_R1			-LED_C1
+			-LED_R2			-LED_C2
+		
+		Tiles get connected with each other with Generic 2x5 2.54mm Header and Sockets
+
+	Security levels:
+		LEVEL 3: 
+			- Simple non-guarded switches.
+
+		LEVEL 2: 
+			- Guarded switches with anti-accident protections
+		
+		LEVEL 1: 
+			-S:
+			   -Small format. Highest Protection (double action minimum)
+			-HV:
+			   - Big Format. HI-Vis with Yellow-Black attention visualization additional to -S bounds           
+
+
+
+Helping Material:
+	https://how2electronics.com/interfacing-mcp2515-can-bus-module-with-arduino/#:~:text=Now%20let%20us%20interface%20MCP2515,the%205V%20&%20GND%20of%20Arduino.
+                                                                                                                                                                                                                                                                                                                                                                                  
