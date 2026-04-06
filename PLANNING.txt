@@ -52,4 +52,10 @@ Conventions:
 
 Helping Material:
 	https://how2electronics.com/interfacing-mcp2515-can-bus-module-with-arduino/#:~:text=Now%20let%20us%20interface%20MCP2515,the%205V%20&%20GND%20of%20Arduino.
+
+
+HIEs (Humann Interface Elements):
+https://www.mouser.de/ProductDetail/Apem/5239MIWRCD?qs=RvImgz6LUSW8HI5X6buIIA%3D%3D
+https://www.mouser.de/c/?marcom=134075694
+https://www.mouser.de/datasheet/3/348/1/safety_guards_serie_switchguard_90.pdf
                                                                                                                                                                                                                                                                                                                                                                                   
