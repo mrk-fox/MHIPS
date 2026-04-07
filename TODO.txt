@@ -1,0 +1,29 @@
+- Create DLNS - Data Log Node Segment
+	Features:
+		-Registers CAN bus and gives log on current ground sys state (Writing to a diffrent DB)
+		-Forms CAN Bus stream into I/O states
+		-Compares raw input to real action table
+		-Writes action/todo to local Database
+	Question: Where does the task-to-action computing happen? On board?
+	
+	Format: Vertical rack as all processing units???
+
+
+- Create the following tiles:
+	3lvl01x01-4xon-off_sw
+	3lvl01x02-8xoff-(on)_btn+1:1led_ind
+	2lvl02x01-locking (AP select panel)
+	1lvl-s01x01
+
+	
+
+create one panel assembly	
+
+- DOCUMENTATION
+	In it...
+		... standart sizes+norms
+		... one full panel 
+		... terminology
+
+->MHIPS->Panels->Tiles->Controll blocks
+		      ->Processing

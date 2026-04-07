@@ -41,6 +41,7 @@ Conventions:
 
 		LEVEL 2: 
 			- Guarded switches with anti-accident protections
+			- No ON-OFF switches applied. Only full-contacted switch.
 		
 		LEVEL 1: 
 			-S:
@@ -58,4 +59,5 @@ HIEs (Humann Interface Elements):
 https://www.mouser.de/ProductDetail/Apem/5239MIWRCD?qs=RvImgz6LUSW8HI5X6buIIA%3D%3D
 https://www.mouser.de/c/?marcom=134075694
 https://www.mouser.de/datasheet/3/348/1/safety_guards_serie_switchguard_90.pdf
+https://www.mouser.de/ProductDetail/NKK-Switches/MN22LL1W01-C?qs=17ckDYBRdelgxsV8r6YWAw%3D%3D&mgh=1&vip=1&utm_id=20979042628&utm_source=google&utm_medium=cpc&utm_marketing_tactic=emeacorp&gad_source=1&gad_campaignid=20969181327&gbraid=0AAAAADn_wf3Jx7OxoVgZOIbkXGr3U07bY&gclid=CjwKCAjw1tLOBhAMEiwAiPkRHuyPO0Eh3WHW2U-Mtyz1LZ4zzQ3JRH_mHbtGlc8eU3MI3lyL32lfMxoCCu8QAvD_BwE
                                                                                                                                                                                                                                                                                                                                                                                   
