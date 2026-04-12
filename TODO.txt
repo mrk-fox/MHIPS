@@ -7,6 +7,9 @@
 	Question: Where does the task-to-action computing happen? On board?
 	
 	Format: Vertical rack as all processing units???
+	
+	Raspberry Pi w/ CAN hat. Workflow is CAN sw.addr. -> Actions Table -> LAN Database upload.
+	Format: Rack, vertical with expansion room.
 
 
 - Create the following tiles:

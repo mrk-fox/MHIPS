@@ -10655,7 +10655,7 @@
 	)
 	(gr_line
 		(start 145.5 70)
-		(end 145.459182 110.493195)
+		(end 145.5 110)
 		(stroke
 			(width 0.05)
 			(type default)
@@ -10664,15 +10664,15 @@
 		(uuid "5e5f38d5-716a-425d-b9fb-b1d287dd411b")
 	)
 	(gr_arc
-		(start 145.459182 110.493197)
-		(mid 144.439125 112.28906)
+		(start 145.5 110)
+		(mid 144.62132 112.12132)
 		(end 142.5 113)
 		(stroke
 			(width 0.05)
 			(type default)
 		)
 		(layer "Edge.Cuts")
-		(uuid "69fefb6e-5a2b-4e6d-bd57-1f0bf6dabcf6")
+		(uuid "67845b53-0240-46d4-8908-37ea7c1d36cd")
 	)
 	(gr_line
 		(start 102.5 67)

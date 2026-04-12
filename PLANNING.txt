@@ -50,6 +50,7 @@ Conventions:
 			   - Big Format. HI-Vis with Yellow-Black attention visualization additional to -S bounds           
 
 
+LtSpice simulation
 
 Helping Material:
 	https://how2electronics.com/interfacing-mcp2515-can-bus-module-with-arduino/#:~:text=Now%20let%20us%20interface%20MCP2515,the%205V%20&%20GND%20of%20Arduino.

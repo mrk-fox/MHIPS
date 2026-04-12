@@ -522,7 +522,7 @@
       "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "../models/BusPlate.step",
+      "step": "../../models/BusPlate.step",
       "svg": "",
       "vrml": ""
     },
