@@ -97,6 +97,8 @@ Front
 <img src="https://github.com/mrk-fox/MHIPS/blob/main/pictures/Small_example_tile_back.png" style="width:auto;">
 Back
 
+### Firmware
+The firmware is the current biggest point of potential advance. Currently, there is a simple programm implemented which is able to get user input from state cahnges and forward it per CAN to all boards. This is sufficient for a simple read system to control basic tasks.
 
 ## Credit
 I thank this project to... <br>
