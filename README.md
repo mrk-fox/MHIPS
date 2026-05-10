@@ -10,6 +10,7 @@
 ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![AutoDesk](https://img.shields.io/badge/autodesk-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white)
 [![License: CERN-OHL-S](https://img.shields.io/badge/License-CERN--OHL--S%20v2-red)](https://ohwr.org/cern_ohl_s_v2)
+</div>
 <br>
 
 <br> <br>
@@ -84,9 +85,11 @@ The following picures are the single PCB layers in the order "Front, In 1, In 2,
 Now, the assembly is rather simple and I remind the reader that he or she has a free will, but here are some guidelines to get through this, sometimes messy, process in calm.
 1. Solder female jumper wires to the elements.
 2. Insert the elements into the main tile casing
-3. Place and secure the backplate and the PCB on threaded rods with nuts from both sides.
+3. Screw the treaded rods into the main casing.
 4. Connect the controller PCB to the jumper wires.
-5. Insert the module carefully into the casing.
-6. Screw in the slide-out securing screws from both sides.
+5. Insert the PCB onto the spacers with the treads in the mounting holes.
+6. Place the backplate onto the assembly and secure the rods with nuts.
 
 Such and assembled tile looks then this way:
+
+<img src="https://github.com/mrk-fox/MHIPS/blob/main/pictures/Small_example_tile.png" style="width:auto;">
