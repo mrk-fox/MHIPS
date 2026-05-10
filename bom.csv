@@ -1,5 +1,6 @@
 name,link,amount,price,running_sum
 PCB,jlcpcb.com,1,7.50,7.50
 Switches,https://www.mouser.de/ProductDetail/Apem/5236CDB?qs=RNTjZpLRzVSCaQ8r2sKmHw%3D%3D&srsltid=AfmBOopb2tQuZ9e8GABX07haXoYGRiY41R4ogpSfVpn8KI8dXR7RruKo,4,17.40,24.9
+Threaded M2 rods 55mm,,4,,
+M2 Nut,,4,,
 ,,,final_sum:,24.9
-,,,,
