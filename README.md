@@ -93,3 +93,22 @@ Now, the assembly is rather simple and I remind the reader that he or she has a 
 Such and assembled tile looks then this way:
 
 <img src="https://github.com/mrk-fox/MHIPS/blob/main/pictures/Small_example_tile.png" style="width:auto;">
+Front
+<img src="https://github.com/mrk-fox/MHIPS/blob/main/pictures/Small_example_tile_back.png" style="width:auto;">
+Back
+
+
+## Credit
+I thank this project to... <br>
+... [KiCad](https://www.kicad.org/)<br>
+... [HackClub Fallout](https://fallout.hackclub.com/)<br>
+... [Autodesk Inventor](https://www.autodesk.com/de/products/inventor/overview)<br>
+
+## License
+
+This hardware project is licensed under the **CERN Open Hardware Licence v2 - Strongly Reciprocal (CERN-OHL-S)**.
+
+See the [LICENSE](./LICENSE) file for details, or visit https://ohwr.org/cern_ohl_s_v2.
+
+
+
