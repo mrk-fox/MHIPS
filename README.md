@@ -3,8 +3,9 @@
 
 <h1 align="center">MHIPS</h1>
 <div align="center">Modular Human Interface Panels System</div>
-
+<br>
 <div align="center">
+      
 ![KiCad](https://img.shields.io/badge/kicad-%2300578F.svg?style=for-the-badge&logo=kicad&logoColor=white) 
 ![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
 ![AutoDesk](https://img.shields.io/badge/autodesk-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white)
@@ -78,3 +79,14 @@ The following picures are the single PCB layers in the order "Front, In 1, In 2,
 <img src="https://github.com/mrk-fox/MHIPS/blob/main/pictures/In1_PCB_Paths.png" style="width:auto;">
 <img src="https://github.com/mrk-fox/MHIPS/blob/main/pictures/In2_PCB_Paths.png" style="width:auto;">
 <img src="https://github.com/mrk-fox/MHIPS/blob/main/pictures/Back_PCB_Paths.png" style="width:auto;">
+
+## Assembly
+Now, the assembly is rather simple and I remind the reader that he or she has a free will, but here are some guidelines to get through this, sometimes messy, process in calm.
+1. Solder female jumper wires to the elements.
+2. Insert the elements into the main tile casing
+3. Place and secure the backplate and the PCB on threaded rods with nuts from both sides.
+4. Connect the controller PCB to the jumper wires.
+5. Insert the module carefully into the casing.
+6. Screw in the slide-out securing screws from both sides.
+
+Such and assembled tile looks then this way:
