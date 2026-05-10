@@ -30,3 +30,24 @@ create one panel assembly
 
 ->MHIPS->Panels->Tiles->Controll blocks
 		      ->Processing
+
+
+
+Firmware
+
+setup: 
+	define slave/master
+	define address
+	init SPI/MCP
+	init button config
+	init 
+
+loop:
+	Is any button pressed?
+		yes: send button address and action
+	Is anything recieved?
+		yes: analyse data and write
+		
+		
+	
+	
