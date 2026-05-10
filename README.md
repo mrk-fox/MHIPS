@@ -3,6 +3,14 @@
 
 <h1 align="center">MHIPS</h1>
 <div align="center">Modular Human Interface Panels System</div>
+
+<div align="center">
+![KiCad](https://img.shields.io/badge/kicad-%2300578F.svg?style=for-the-badge&logo=kicad&logoColor=white) 
+![Espressif](https://img.shields.io/badge/espressif-E7352C.svg?style=for-the-badge&logo=espressif&logoColor=white)
+![AutoDesk](https://img.shields.io/badge/autodesk-%23000000.svg?style=for-the-badge&logo=autodesk&logoColor=white)
+[![License: CERN-OHL-S](https://img.shields.io/badge/License-CERN--OHL--S%20v2-red)](https://ohwr.org/cern_ohl_s_v2)
+<br>
+
 <br> <br>
 # Introduction
 As controlling any type of craft with electronical components reqiring human intervention to function grows with the complexity of the craft and its tasks, I have decided to design a controlling system which is modular and uses near-aerospace-safety protocolls.
@@ -15,6 +23,12 @@ As controlling any type of craft with electronical components reqiring human int
 Every sucesfull project resembles a solution for a problem. Thus, the problem needs to be formulated before a solution is deigned. The problem that this project solves is the complexity of digital menus and the lack of haptic response in controlling anything with pure software.
 My solution is a _modular, standartized panel system_ 
 Hence, a ruleset was reqired to ensure the mulitcompatiability and extensiabiliy of this project.
+
+### Why is it unique?
+A central question in research, engineering and most other fields is "why has nobody done this before". Well, there are solutions to thes problem. Even one NASA provides in their GitHub repositories. But all of them are way to professional for amateur/non-professional use.
+
+### Why did i make it?
+Well, I'm planning on buiding an autonomous portable UAV someday. One day. Maybe. So these can be the GCC controls.
 
 # Standartization
 
@@ -53,6 +67,10 @@ The following pictures are the front and back of the BusPlate PCB.
 
 <img src="https://github.com/mrk-fox/MHIPS/blob/main/pictures/BusPlate_F.png" style="width:auto;">
 <img src="https://github.com/mrk-fox/MHIPS/blob/main/pictures/BusPlate.png" style="width:auto;">
+
+The following diagram shows the schematics for this PCB created in KiCad.
+
+<img src="https://github.com/mrk-fox/MHIPS/blob/main/pictures/schematic.png" style="width:auto;">
 
 The following picures are the single PCB layers in the order "Front, In 1, In 2, Back"
 
